@@ -12,6 +12,8 @@ This library, ADAL for Android, will no longer receive new feature improvements.
 * Existing applications relying on ADAL for Android will continue to work.
 
 ---
+| [Documentation](https://github.com/AzureAD/azure-activedirectory-library-for-android/wiki#documentation) | [Code Samples](https://github.com/azure-samples?utf8=✓&q=active-directory-android) | [Developer Guide](https://aka.ms/aaddev) | [Feedback](https://forms.office.com/r/Xx9tB8g8R4) |
+| --- | --- | --- | --- |
 
 # Microsoft Azure Active Directory Authentication Library (ADAL) for Android
 
